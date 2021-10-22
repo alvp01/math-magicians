@@ -32,7 +32,6 @@ class Calculator extends React.Component {
   }
 
   render() {
-    /* const { total, next, operation } = this.state; */
     return (
       <div className="calculator-body">
         <div className="screen">
