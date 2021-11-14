@@ -100,6 +100,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 </details>
 <br>
 
+## Live demos
+- [Heroku](https://math-magicians-alvp.herokuapp.com)
+- [Netlify](https://loving-jang-cb2124.netlify.app)
+
 ## Author
 
 👤 **Abel**
